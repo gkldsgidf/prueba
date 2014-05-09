@@ -1,2 +1,3 @@
 prueba
 ======
+git add archivo
